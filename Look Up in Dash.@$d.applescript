@@ -3,7 +3,7 @@
  Look Up in Dash
  version 1.0.0
 
- look up refarence in Dash with the selected text
+ look up the reference in Dash with the selected text
 
  CotEditor
  http://coteditor.com
